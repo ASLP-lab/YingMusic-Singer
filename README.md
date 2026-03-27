@@ -247,6 +247,15 @@ The code and model weights in this project are licensed under [CC BY 4.0](https:
 
 The VAE model weights and inference code (in `src/YingMusic-Singer/utils/stable-audio-tools`) are derived from [Stable Audio Open](https://huggingface.co/stabilityai/stable-audio-open-1.0) by Stability AI, and are licensed under the [Stability AI Community License](./LICENSE-STABILITY).
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=ASLP-lab%2FYingMusic-Singer&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=ASLP-lab/YingMusic-Singer&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=ASLP-lab/YingMusic-Singer&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=ASLP-lab/YingMusic-Singer&type=date&legend=top-left" />
+ </picture>
+</a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ASLP-lab/YingMusic-Singer/main/assets/institutional_logo.svg" alt="Institutional Logo" width="600">
