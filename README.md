@@ -247,6 +247,23 @@ The code and model weights in this project are licensed under [CC BY 4.0](https:
 
 The VAE model weights and inference code (in `src/YingMusic-Singer/utils/stable-audio-tools`) are derived from [Stable Audio Open](https://huggingface.co/stabilityai/stable-audio-open-1.0) by Stability AI, and are licensed under the [Stability AI Community License](./LICENSE-STABILITY).
 
+## ✉️ Contact Us
+If you are interested in leaving a message to our work, feel free to email cbhao@mail.nwpu.edu.cn or lxie@nwpu.edu.cn
+
+You’re welcome to join our WeChat group for technical discussions, updates.
+
+<p align="center">
+  <!-- <em>Due to group limits, if you can't scan the QR code, please add my WeChat for group access  -->
+      <!-- : <strong>Tiamo James</strong></em> -->
+  <br>
+  <span style="display: inline-block; margin-right: 10px;">
+    <img src="https://github.com/ASLP-lab/YingMusic-Singer-Plus/blob/main/assets/wechat_qr.png" width="300" alt="WeChat Group QR Code"/>
+  </span>
+  <span style="display: inline-block; margin-right: 10px;">
+    <img src="https://github.com/ASLP-lab/YingMusic-Singer-Plus/blob/main/assets/wechat_qr_author.png" width="300" alt="WeChat Group QR Code"/>
+  </span>
+</p>
+
 ## Star History
 
 <a href="https://www.star-history.com/?repos=ASLP-lab%2FYingMusic-Singer-Plus&type=date&legend=top-left">
